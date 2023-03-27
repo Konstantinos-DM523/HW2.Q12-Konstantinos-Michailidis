@@ -1,10 +1,10 @@
 ## 01-Structures.R
 # Code from 01-structures
 
-5 + 5
-4 - 1  #Random annotation for q12.5
-1 * 2
-4 ^ 2
+5 + 5 #To add
+4 - 1 #To subtract
+1 * 2 #To multiply
+4 ^ 2 #To square
 
 a <- 1
 b <- 2
