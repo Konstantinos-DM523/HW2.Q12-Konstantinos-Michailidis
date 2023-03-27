@@ -2,7 +2,7 @@
 # Code from 01-structures
 
 5 + 5
-4 - 1
+4 - 1  #Random annotation for q12.5
 1 * 2
 4 ^ 2
 
@@ -116,7 +116,7 @@ vec
 
 # Quiz
 # ---------
-c(5, "two")
+c(5, "two") 
 c(TRUE, "a")
 c(1, "TRUE")
 TRUE + 5
